@@ -6,7 +6,7 @@ import os
 import pickle
 import warnings
 import torch
-import matplot.lib
+import matplotlibpyplot
 import seaborn
 import sklearn
 
